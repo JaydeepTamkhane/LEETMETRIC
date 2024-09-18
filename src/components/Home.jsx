@@ -33,7 +33,7 @@ function Home() {
               placeholder="Enter user Id"
               className="p-0 m-0 font-bold text-center text-gray-800 placeholder-gray-500 border-none rounded-sm outline-none invalid:border-none invalid:outline-none"
             />
-            <p>eg :- ID = LeetCode</p>
+            <p>eg:- ID = LeetCode</p>
             <button
               type="submit"
               className="w-1/2 rounded-md "
